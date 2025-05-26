@@ -1,0 +1,115 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(232, 243, 253);
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.hero-section{
+    display: flex;
+    background-color: rgba(34, 88, 79, 0.973);
+}
+.hero-section-h1{
+    color: rgb(212, 170, 63);
+    font-size: 3rem;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 3.7rem;
+    margin-left: 20%;
+}
+.hero-section-h2{
+    font-size: 1.3rem;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(157, 208, 208);
+    margin-left: 20%;
+}
+.bg-img{
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+
+.heading{
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.grid-container{
+    display: flex;
+    padding: 4%;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.section2-content{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    flex: 1;
+    justify-items: center;
+}
+li{
+    padding: 5px;
+    font-size: 1.2rem;
+}
+p{
+    font-size: 1.2rem;
+}
+.mob-app-screen{
+    flex: 1;
+    text-align: center;
+}
+.screen{
+    border-radius: 12px;
+    height: 390px;
+    width: 230px;
+}
+.caption{
+    text-align: center;
+    font-size: 1.1rem;
+    padding: 0px;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.About-me{
+    background-color: rgb(145, 195, 195);
+}
+.About-me-section{
+    padding: 4%;
+    text-align: center;
+}
+.author-pic{
+    width: 150px;
+    border-radius: 50%;
+    border: rgb(60, 39, 39) 1px solid;
+}
+.img2{
+    text-align: center;
+}
+button{
+    background-color: rgb(181, 151, 76);
+    color: black;
+    border-radius: 20px;
+    height: 3em;
+    width: 9em;
+}
+
+.footer{
+    text-align: center;
+}
+.contact-me{
+    text-align: center;
+    border: 1px solid gray;
+    margin: 5%;
+    border-radius: 12px;
+}
+.sec3heading{
+    margin: unset;
+    padding-top: 1.5rem;
+}
